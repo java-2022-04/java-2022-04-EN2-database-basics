@@ -65,3 +65,25 @@ Shows the official language for every country
     country.Name IN ("Greece", "Hungary");
 ```
 
+CRUD Operations
+INSERT
+```
+INSERT INTO club (name, points) 
+VALUES ('Test2',2);
+```
+
+UPDATE
+```
+UPDATE club
+SET name = "Better name", points = 4
+WHERE id = 100; 
+```
+
+DELETE
+```
+DELETE FROM club 
+WHERE id=100;
+```
+
+
+
