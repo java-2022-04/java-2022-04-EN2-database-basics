@@ -1,5 +1,5 @@
 
-# Basic sql statements
+# Basic sql statements on worlds database
 
 switch to use database world
 ```
